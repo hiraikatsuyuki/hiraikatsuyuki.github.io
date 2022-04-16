@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 自分のこと
 
-You can use the [editor on GitHub](https://github.com/hiraikatsuyuki/hiraikatsuyuki.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- 平井克之（ひらいかつゆき）
+- 大阪、京都、つくば、東京、新潟
+- 新潟医療福祉大学　医療情報管理学科　助教
+- katsuyuki-hirai(at)nuhw.ac.jp (at)は@に置き換えてください
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+これまでの経歴や論文は [researchmap](https://researchmap.jp/hiraikatsuyuki){:target="_blank"} からどうぞ
 
-### Markdown
+## 技術について
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- データ分析
+  * Python (Jupyter, Pandas, Scrapy)
+  * SQL (MariaDB)
+  * XML
+  * R
 
-```markdown
-Syntax highlighted code block
+- ウェブアプリケーション開発
+  * Python (Django, Flask)
+  * Nginx
+  * PHP 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hiraikatsuyuki/hiraikatsuyuki.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- その他
+  * Linux (Ubuntu)
+  * Docker
