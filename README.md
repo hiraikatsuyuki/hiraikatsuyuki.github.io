@@ -2,7 +2,7 @@
 
 - 平井克之（ひらいかつゆき）
 - 大阪、京都、つくば、東京、新潟
-- 新潟医療福祉大学　医療情報管理学科　助教
+- 新潟医療福祉大学 医療情報管理学科 助教
 - katsuyuki-hirai(at)nuhw.ac.jp
 
 これまでの経歴や論文は [researchmap](https://researchmap.jp/hiraikatsuyuki){:target="_blank"} からどうぞ
@@ -11,7 +11,7 @@
 
 - データ分析
   * Python (Jupyter, Pandas, Scrapy)
-  * SQL (MariaDB)
+  * SQL (MariaDB, SQLite)
   * XML
   * R
 
